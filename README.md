@@ -24,4 +24,4 @@
   <br>
 <img src="images/ecran.jpg" alt="image_socle_bottom" border="0" width="400px">
   <br>
-<img src="images/ecran.jpg" alt="image_socle_bottom" border="0" width="400px"> 
+<img src="images/top.jpg" alt="image_socle_bottom" border="0" width="400px"> 
