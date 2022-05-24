@@ -19,9 +19,9 @@
   <li>Jaune : vis M2,5 8mm</li>
   <li>Vert  : vis M3 10mm</li>
   <li>Bleu  : entretoise filetée M3 30mm Femelle/Femelle</li>
-<u/l>
+</ul>
 
-
+  <br>
 <img src="images/bottom.jpg" alt="image_socle_bottom" border="0" width="400px">
   <br>
 <img src="images/bottom2.jpg" alt="image_socle_bottom" border="0" width="400px">
